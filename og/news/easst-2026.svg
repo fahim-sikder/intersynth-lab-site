@@ -35,12 +35,12 @@
 
   <text x="80" y="200" font-family="ui-monospace, monospace" font-size="20" font-weight="500" fill="#22d3ee" letter-spacing="6">NEWS</text>
 
-  <text x="80" y="280" font-family="ui-sans-serif, system-ui, sans-serif" font-size="68" font-weight="600" fill="#ffffff" letter-spacing="-1.5">Synthetic data and</text>
-  <text x="80" y="360" font-family="ui-sans-serif, system-ui, sans-serif" font-size="68" font-weight="600" fill="#ffffff" letter-spacing="-1.5">representation - The</text>
-  <text x="80" y="440" font-family="ui-sans-serif, system-ui, sans-serif" font-size="68" font-weight="600" fill="#ffffff" letter-spacing="-1.5">politics of AI…</text>
+  <text x="80" y="280" font-family="ui-sans-serif, system-ui, sans-serif" font-size="68" font-weight="600" fill="#ffffff" letter-spacing="-1.5">EASST 2026 Panel: Synthetic</text>
+  <text x="80" y="360" font-family="ui-sans-serif, system-ui, sans-serif" font-size="68" font-weight="600" fill="#ffffff" letter-spacing="-1.5">Data and Representation –</text>
+  <text x="80" y="440" font-family="ui-sans-serif, system-ui, sans-serif" font-size="68" font-weight="600" fill="#ffffff" letter-spacing="-1.5">The Politics of AI…</text>
 
-  <text x="80" y="540" font-family="ui-sans-serif, system-ui, sans-serif" font-size="26" fill="#b6b6c8">Synthetic data are touted as fixes to technical, ethical,</text>
-  <text x="80" y="576" font-family="ui-sans-serif, system-ui, sans-serif" font-size="26" fill="#b6b6c8">and political challenges. But what do they mean for…</text>
+  <text x="80" y="540" font-family="ui-sans-serif, system-ui, sans-serif" font-size="26" fill="#b6b6c8">A panel at the EASST 2026 conference in Krakow bringing</text>
+  <text x="80" y="576" font-family="ui-sans-serif, system-ui, sans-serif" font-size="26" fill="#b6b6c8">together researchers from Sweden, Italy, the UK, Norway,…</text>
 
   <rect x="80" y="540" width="80" height="4" fill="url(#accent)" rx="2"/>
   <text x="80" y="580" font-family="ui-monospace, monospace" font-size="16" fill="#8b8ba7" letter-spacing="4">INTERSYNTH.AI</text>
