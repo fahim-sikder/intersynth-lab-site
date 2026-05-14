@@ -35,7 +35,7 @@
 
   <text x="80" y="200" font-family="ui-monospace, monospace" font-size="20" font-weight="500" fill="#22d3ee" letter-spacing="6">NEWS</text>
 
-  <text x="80" y="280" font-family="ui-sans-serif, system-ui, sans-serif" font-size="68" font-weight="600" fill="#ffffff" letter-spacing="-1.5">Humanities Hackathon - AI</text>
+  <text x="80" y="280" font-family="ui-sans-serif, system-ui, sans-serif" font-size="68" font-weight="600" fill="#ffffff" letter-spacing="-1.5">Humanities Hackathon: AI</text>
   <text x="80" y="360" font-family="ui-sans-serif, system-ui, sans-serif" font-size="68" font-weight="600" fill="#ffffff" letter-spacing="-1.5">Generated Texts and Images</text>
 
   <text x="80" y="460" font-family="ui-sans-serif, system-ui, sans-serif" font-size="26" fill="#b6b6c8">How might historians and literary scholars engage with</text>
